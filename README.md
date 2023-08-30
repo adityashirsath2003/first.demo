@@ -2,4 +2,4 @@
 My first Git repository
 <br>
 
-<p>Author - Aditya Shirsath</p>
+<p>Author - Aditya Ramesh Shirsath</p>
